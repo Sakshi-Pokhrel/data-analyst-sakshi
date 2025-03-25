@@ -19,7 +19,8 @@ I worked as a data team for UCW account and was able to achieve vaious milestone
 **Tools**: To ingest and store the data, we used S3 services by creating a bucket in them and for cleaning and profiling the data, we used AWS Glue DataBrew services where we created jobs for cleaning and profiling them.
 
 **Deliverables**: we were able to achieve cleaned, transformed data set which could be used for further analysis. These data could also be summarized and thus generate queries after that.
-![Data Ingestion and Data Cleaning] ("C:\Users\saksh\OneDrive\Desktop\5th Semester\cloud computing\week 2 activities\draw.io file 2.png")
+
+
 
 
 
