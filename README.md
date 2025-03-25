@@ -7,9 +7,9 @@ We created an AWS project for University Canada West and the area I was working 
 I worked as a data team for UCW account and was able to achieve vaious milestones in it. Now, I will be discussing various services we used in AWS and that deliverables we were able to generate from it.
 1. Exploratory Data Analysis
 
-** Project Description** : Exploratory Data Analysis on UCW's Occupational health and Services procedure
+**Project Description:** Exploratory Data Analysis on UCW's Occupational health and Services procedure
  
-** Objective**: The main objective was to store, clean, and summarize our data so that it can be used for analysis. This way, we can understand the data and check for any 
+**Objective**: The main objective was to store, clean, and summarize our data so that it can be used for analysis. This way, we can understand the data and check for any 
      inconsistencies along the way.
 
 **Dataset**: We are working with three data set as mentioned above which were regulation list, workers list, and workplace list. The regulation list included details like name of the regulation, the regulation ID, who is responsible for it, when should it be followed, if trainings are provided for it or not. For workers list, their name, age, location, years of experience, any certification are included. In case of workplace list, location, assigned worker, time, recordins of hazards and so on. So these were the type of data set we were working with.
