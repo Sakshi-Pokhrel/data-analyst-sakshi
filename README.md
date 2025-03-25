@@ -24,4 +24,7 @@ I worked as a data team for UCW account and was able to achieve vaious milestone
 
 ![Data Profiling and Cleaning](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/drawio.2.png?raw=true)
 
+![AWS Data Cleaning](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/Cleaning%20all%203%20jobs.png?raw=true)
+
+
 
