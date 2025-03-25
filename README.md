@@ -1,5 +1,5 @@
 # data-analyst-sakshi
-# Project 1: AWS Analysis for Uuniversity Canada West (Human Resource Department)
+# Project 1: AWS Analysis for University Canada West (Human Resource Department)
 We created an AWS project for University Canada West and the area I was working for was for the occupational health and services procedure under Human Resource Department. The three data that I selected for it were
 - regulation list
 - worker list
@@ -19,5 +19,7 @@ I worked as a data team for UCW account and was able to achieve vaious milestone
 **Tools**: To ingest and store the data, we used S3 services by creating a bucket in them and for cleaning and profiling the data, we used AWS Glue DataBrew services where we created jobs for cleaning and profiling them.
 
 **Deliverables**: we were able to achieve cleaned, transformed data set which could be used for further analysis. These data could also be summarized and thus generate queries after that.
+![Data Ingestion and Data Cleaning] ("C:\Users\saksh\OneDrive\Desktop\5th Semester\cloud computing\week 2 activities\draw.io file 2.png")
+
 
 
