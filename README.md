@@ -20,7 +20,7 @@ I worked as a data team for UCW account and was able to achieve vaious milestone
 
 **Deliverables**: we were able to achieve cleaned, transformed data set which could be used for further analysis. These data could also be summarized and thus generate queries after that.
 
-![Data Ingestion from Web Server](draw.io file 2.png) 
+![Data Ingestion from Web Server](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/draw.io%20file%202.png?raw=true) 
 
 
 
