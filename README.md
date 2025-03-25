@@ -5,7 +5,8 @@ We created an AWS project for University Canada West and the area I was working 
 - worker list
 - workplace list
 I worked as a data team for UCW account and was able to achieve vaious milestones in it. Now, I will be discussing various services we used in AWS and that deliverables we were able to generate from it.
-1. Exploratory Data Analysis
+
+**1. Exploratory Data Analysis**
 
 **Project Description:** Exploratory Data Analysis on UCW's Occupational health and Services procedure
  
