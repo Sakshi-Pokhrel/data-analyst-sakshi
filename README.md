@@ -94,7 +94,8 @@ I worked as a data team for UCW account and was able to achieve vaious milestone
 
 **Deliverables**: We are able to identify the activities and see what is being done. Along with that, we are able to monitor usage to optimize the cost.
 
-![Cloud Watch]
+![Cloud Watch](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/CA9-1.png?raw=true)
+![Cloud Trail](
    
 # Project 2: AWS Analysis for City of Vancouver (Bikeways)
    
