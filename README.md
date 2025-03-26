@@ -172,7 +172,7 @@ We did an AWS Analysis for City of Vancouver- Bikeways procedures where we analy
 **Deliverables**: We were able to separate our data into two buckets, the first one had data set which passed the quality and the second bucket had dataset which failed the quality.
 
 ![ETL Pipelines](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/ETL%20pipelines.png?raw=true)
-![Quality check 1]()
+![Quality check 1](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/failed%20datset.png?raw=true)
 ![Quality check 2]()
 
 
