@@ -154,7 +154,7 @@ We did an AWS Analysis for City of Vancouver- Bikeways procedures where we analy
 
 ![Data cleaning 1](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/cleaning%20ss1.png?raw=true)
 ![Data profiling 2](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/profiling%201.png?raw=true)
-![Data profilimg 3]
+![Data profilimg 3](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/SS1%20bikeways%20summarization.png?raw=true)
 ![Data cleaning all]
 
 4. Data Quality Checking
