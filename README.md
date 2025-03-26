@@ -95,7 +95,7 @@ I worked as a data team for UCW account and was able to achieve vaious milestone
 **Deliverables**: We are able to identify the activities and see what is being done. Along with that, we are able to monitor usage to optimize the cost.
 
 ![Cloud Watch](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/CA9-1.png?raw=true)
-![Cloud Trail](
+![Cloud Trail](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/CA9-2.png?raw=true)
    
 # Project 2: AWS Analysis for City of Vancouver (Bikeways)
    
@@ -103,12 +103,12 @@ We did an AWS Analysis for City of Vancouver- Bikeways procedures where we analy
 
 **1. Exploratory Data Analysis**
 
-**Project Description:** Exploratory Data Analysis on UCW's Occupational health and Services procedure
+**Project Description:** Exploratory Data Analysis on City of vancouver bikeways
  
 **Objective**: The main objective was to store, clean, and summarize our data so that it can be used for analysis. This way, we can understand the data and check for any 
      inconsistencies along the way.
 
-**Dataset**: We are working with three data set as mentioned above which were regulation list, workers list, and workplace list. The regulation list included details like name of the regulation, the regulation ID, who is responsible for it, when should it be followed, if trainings are provided for it or not. For workers list, their name, age, location, years of experience, any certification are included. In case of workplace list, location, assigned worker, time, recordins of hazards and so on. So these were the type of data set we were working with.
+**Dataset**: We are working with bikeways dataset where we have bikr routes, street name, bikeways type, speed limit, vehicle direction, and so on.
 
 **Methodology**: Firstly, we had to ingest the data from the webserver and store it in the bucket as a raw file. After that, we had to clean to data to transform it before summarizing them for any further analysis.
 
@@ -116,8 +116,8 @@ We did an AWS Analysis for City of Vancouver- Bikeways procedures where we analy
 
 **Deliverables**: we were able to achieve cleaned, transformed data set which could be used for further analysis. These data could also be summarized and thus generate queries after that.
 
-![Data Ingestion from Web Server](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/draw.io%20file%202.png?raw=true) 
-![Data Transformed](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/drawio.2.png?raw=true)
+![Data Ingestion from Web Server]() 
+![Data Transformed]()
 
 
 **2. Descriptive Analysis**
