@@ -60,6 +60,8 @@ I worked as a data team for UCW account and was able to achieve vaious milestone
 ![Data profiling 1](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/regulation%20list%20profiling%202.png?raw=true)
 ![Data profiling 2](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/workers%20list%20profiling%202.png?raw=true)
 ![Data profilimg 3](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/workplace%20list%20profilig%202.png?raw=true)
+![Data cleaning all](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/Cleaning%20all%203%20jobs.png?raw=true)
+
 
 
    
