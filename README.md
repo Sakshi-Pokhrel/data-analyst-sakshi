@@ -153,7 +153,7 @@ We did an AWS Analysis for City of Vancouver- Bikeways procedures where we analy
 **Deliverables**: We were able to provide clean, profiled and transformed data set which had no missing, invalid or incorrect values. The data now are ready for further summarization.
 
 ![Data cleaning 1](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/cleaning%20ss1.png?raw=true)
-![Data profiling 2]
+![Data profiling 2](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/profiling%201.png?raw=true)
 ![Data profilimg 3]
 ![Data cleaning all]
 
