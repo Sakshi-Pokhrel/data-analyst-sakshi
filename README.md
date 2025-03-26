@@ -78,6 +78,7 @@ I worked as a data team for UCW account and was able to achieve vaious milestone
 
 ![Data Pipeline](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/CA8-1.png?raw=true)
 ![Quality check 1](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/CA8-2.png?raw=true)
+![Quality check 2](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/CA8-3.png?raw=true)
 
 
    
