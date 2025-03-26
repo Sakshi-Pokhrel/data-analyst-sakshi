@@ -116,7 +116,7 @@ We did an AWS Analysis for City of Vancouver- Bikeways procedures where we analy
 
 **Deliverables**: we were able to achieve cleaned, transformed data set which could be used for further analysis. These data could also be summarized and thus generate queries after that.
 
-![Data Ingestion from Web Server]() 
+![Data Ingestion from Web Server](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/data%20ingestion%20log%20file.PNG?raw=true) 
 ![Data Transformed]()
 
 
