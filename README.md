@@ -135,16 +135,16 @@ We did an AWS Analysis for City of Vancouver- Bikeways procedures where we analy
 **Deliverables**: We were able to catalog our data and get answer to three of our business queries. It helped in understanding the average number of employees, maximum square footage of safety that needed to be maintained and also minumum salary wage that is been given to the employees.
 
 ![Business query 1](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/crawler.png?raw=true)
-![Business query 2]()
+![Business query 2](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/SS4.png?raw=true)
 
 
 3. Data Wrangling
 
-**Project Description**: Doing data wrangling on UCW's occupational health and services procedure.
+**Project Description**: Doing data wrangling on City of Vancouver's bikeways procedure.
 
-**Objective**: The main objective of data wrangling is to handling missing values, correcting errors, and restructuring data to make it more accessible and meaningful. It means we need to profile and clean them for better analysis.
+**Objective**: The main objective of data wrangling is to handling missing values, correcting errors, and restructuring data to make it more accessible and meaningful. It means we needed to profile and clean them for better analysis.
 
-**Dataset:** Again, we used the same dataset of occupational health procedures. We shall be wrangling data for three data set that we have which are regulation list, workers list and workplace list. 
+**Dataset:** Again, we used the same dataset of bikeways procedures. 
 
 **Methodology:** In order to be able to wrangle it, firstly, we had to extract data from the raw data set, then we created a job to profile them and then again we had to run a job to clean them and again store those transformed data in another bucket.
 
@@ -152,10 +152,10 @@ We did an AWS Analysis for City of Vancouver- Bikeways procedures where we analy
 
 **Deliverables**: We were able to provide clean, profiled and transformed data set which had no missing, invalid or incorrect values. The data now are ready for further summarization.
 
-![Data profiling 1](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/regulation%20list%20profiling%202.png?raw=true)
-![Data profiling 2](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/workers%20list%20profiling%202.png?raw=true)
-![Data profilimg 3](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/workplace%20list%20profilig%202.png?raw=true)
-![Data cleaning all](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/Cleaning%20all%203%20jobs.png?raw=true)
+![Data profiling 1]
+![Data profiling 2]
+![Data profilimg 3]
+![Data cleaning all]
 
 4. Data Quality Checking
 
