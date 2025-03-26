@@ -173,6 +173,21 @@ We did an AWS Analysis for City of Vancouver- Bikeways procedures where we analy
 
 ![ETL Pipelines](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/ETL%20pipelines.png?raw=true)
 ![Quality check 1](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/failed%20datset.png?raw=true)
-![Quality check 2]()
+![Quality check 2](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/passed%20dataset.png?raw=true)
 
+5. Data Monitoring
+   
+**Project Description**: Doing data monitoring on City of Vancouver bikeways procedure.
 
+**Objective**: The main objective of data monitoring is to optimize the cost of using resources in AWS. Along with that, it is also important to keep track of the activities in the console anywhere from user activity to the data team activity.
+
+**Dataset:** Here, we used monitoring on all the services that had been used. Using maximum would increase cost accordingly.
+
+**Methodology:** In order to monitor our services, we create dashboard for different metrics and services and generate a threshold beyond which we would be notified by again creating an alarm which helps with notification.
+
+**Tools:** The tools that we use in this case are CloudWatch and CloudTrail. CloudWatch helps with monitoring and CloudTrail helps with tracking activities.
+
+**Deliverables**: We are able to identify the activities and see what is being done. Along with that, we are able to monitor usage to optimize the cost.
+
+![CloudWatch]()
+![CloudTrail]()
