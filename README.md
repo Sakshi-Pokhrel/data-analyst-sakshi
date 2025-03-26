@@ -47,16 +47,17 @@ I worked as a data team for UCW account and was able to achieve vaious milestone
 
 **Project Description**: Doing data wrangling on UCW's occupational health and services procedure.
 
-**Objective**: Basically, we did do descriptive analysis in this project to understand business queries and figure out what results were generated. This helps in understanding business related questions, gives insights to the analytics.
+**Objective**: The main objective of data wrangling is to handling missing values, correcting errors, and restructuring data to make it more accessible and meaningful. It means we need to profile and clean them for better analysis.
 
-**Dataset:** Again, we used the same dataset of occupational health procedures. We tried to generate atleast three of those queries using the data set that we had.
+**Dataset:** Again, we used the same dataset of occupational health procedures. We shall be wrangling data for three data set that we have which are regulation list, workers list and workplace list. 
 
-**Methodology:** In order to be able to generate those business queries, firstly, we had to summarize our transformed data and curate it. we had to create pipelines and store it in a centralized data calaog after which we were able to write SQL and generate our business related queries.
+**Methodology:** In order to be able to wrangle it, firstly, we had to extract data from the raw data set, then we created a job to profile them and then again we had to run a job to clean them and again store those transformed data in another bucket.
 
-**Tools:** Firstly, in order to create a pipeline, we used visual ETL feature from AWS glue service and once pipeline was created, we use crawler and centralized our data in data catalog. After that, we used Amazon Athena services where we could write SQL code and generate queries.
+**Tools:** The tools that we use to profile and clean them is called AWS Glue DataBrew. We create a job to profile them here and again in the same DataBrew, we could clean them and store them in another bucket. So, for storage we need S3 service.
 
-**Deliverables**: We were able to catalog our data and get answer to three of our business queries. It helped in understanding the average number of employees, maximum square footage of safety that needed to be maintained and also minumum salary wage that is been given to the employees.
+**Deliverables**: We were able to provide clean, profiled and transformed data set which had no missing, invalid or incorrect values. The data now are ready for further summarization.
 
+![Data profiling 1](
    
 
 
