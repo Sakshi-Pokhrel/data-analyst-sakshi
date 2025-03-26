@@ -190,4 +190,5 @@ We did an AWS Analysis for City of Vancouver- Bikeways procedures where we analy
 **Deliverables**: We are able to identify the activities and see what is being done. Along with that, we are able to monitor usage to optimize the cost.
 
 ![CloudWatch](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/dashboard%20.png?raw=true)
-![CloudTrail]()
+![CloudTrail](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/cloudtrail.png?raw=true)
+
