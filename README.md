@@ -43,5 +43,7 @@ I worked as a data team for UCW account and was able to achieve vaious milestone
 
 ![Business query 1](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/ss4.png?raw=true)
 ![Business query 2](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/ss5.png?raw=true)
+![Business query 3](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/ss6.png?raw=true)
+
 
 
