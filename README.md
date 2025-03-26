@@ -134,9 +134,9 @@ We did an AWS Analysis for City of Vancouver- Bikeways procedures where we analy
 
 **Deliverables**: We were able to catalog our data and get answer to three of our business queries. It helped in understanding the average number of employees, maximum square footage of safety that needed to be maintained and also minumum salary wage that is been given to the employees.
 
-![Business query 1]()
+![Business query 1](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/crawler.png?raw=true)
 ![Business query 2]()
-![Business query 3]()
+
 
 3. Data Wrangling
 
