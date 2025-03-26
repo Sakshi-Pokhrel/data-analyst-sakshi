@@ -43,7 +43,7 @@ I worked as a data team for UCW account and was able to achieve vaious milestone
 ![Business query 2](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/ss5.png?raw=true)
 ![Business query 3](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/ss6.png?raw=true)
 
-3. Data Wrangling
+**3. Data Wrangling**
 
 **Project Description**: Doing data wrangling on UCW's occupational health and services procedure.
 
@@ -62,7 +62,7 @@ I worked as a data team for UCW account and was able to achieve vaious milestone
 ![Data profilimg 3](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/workplace%20list%20profilig%202.png?raw=true)
 ![Data cleaning all](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/Cleaning%20all%203%20jobs.png?raw=true)
 
-4. Data Quality Checking
+**4. Data Quality Checking**
 
 **Project Description**: Doing quality check on UCW's occupational health and services procedure.
 
@@ -80,7 +80,7 @@ I worked as a data team for UCW account and was able to achieve vaious milestone
 ![Quality check 1](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/CA8-2.png?raw=true)
 ![Quality check 2](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/CA8-3.png?raw=true)
 
-5. Data Monitoring
+**5. Data Monitoring**
    
 **Project Description**: Doing data monitoring on UCW's occupational health and services procedure.
 
@@ -138,7 +138,7 @@ We did an AWS Analysis for City of Vancouver- Bikeways procedures where we analy
 ![Business query 2](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/SS4.png?raw=true)
 
 
-3. Data Wrangling
+**3. Data Wrangling**
 
 **Project Description**: Doing data wrangling on City of Vancouver's bikeways procedure.
 
@@ -157,7 +157,7 @@ We did an AWS Analysis for City of Vancouver- Bikeways procedures where we analy
 ![Data profilimg 3](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/SS1%20bikeways%20summarization.png?raw=true)
 ![Data cleaning all](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/SS1%20-%20%20table.png?raw=true)
 
-4. Data Quality Checking
+**4. Data Quality Checking**
 
 **Project Description**: Doing quality check on City of Vancouver's bikeways procedure.
 
@@ -175,7 +175,7 @@ We did an AWS Analysis for City of Vancouver- Bikeways procedures where we analy
 ![Quality check 1](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/failed%20datset.png?raw=true)
 ![Quality check 2](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/passed%20dataset.png?raw=true)
 
-5. Data Monitoring
+**5. Data Monitoring**
    
 **Project Description**: Doing data monitoring on City of Vancouver bikeways procedure.
 
