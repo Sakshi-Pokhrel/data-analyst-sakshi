@@ -41,4 +41,6 @@ I worked as a data team for UCW account and was able to achieve vaious milestone
 
 **Deliverables**: We were able to catalog our data and get answer to three of our business queries. It helped in understanding the average number of employees, maximum square footage of safety that needed to be maintained and also minumum salary wage that is been given to the employees.
 
-![Data Summarization] (
+![Business query 1](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/ss4.png?raw=true)
+![Business query 2](
+
