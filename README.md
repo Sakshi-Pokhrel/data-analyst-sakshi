@@ -57,7 +57,8 @@ I worked as a data team for UCW account and was able to achieve vaious milestone
 
 **Deliverables**: We were able to provide clean, profiled and transformed data set which had no missing, invalid or incorrect values. The data now are ready for further summarization.
 
-![Data profiling 1](
+![Data profiling 1](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/regulation%20list%20profiling%202.png?raw=true)
+![Data profiling 2](
    
 
 
