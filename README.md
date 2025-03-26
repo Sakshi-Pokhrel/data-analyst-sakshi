@@ -62,7 +62,19 @@ I worked as a data team for UCW account and was able to achieve vaious milestone
 ![Data profilimg 3](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/workplace%20list%20profilig%202.png?raw=true)
 ![Data cleaning all](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/Cleaning%20all%203%20jobs.png?raw=true)
 
+4. Data Quality Checking
 
+**Project Description**: Doing quality check on UCW's occupational health and services procedure.
+
+**Objective**: The main objective of data quality check is to figure out and see how many data pass the quality check so that they can be segregated into failed bucket or onto pass bucket
+
+**Dataset:** Here, we use semi-structured JSON file which contains our data set of regulation list, workers list and workplace list. 
+
+**Methodology:** In order to check the quality of the dataset, firstly, we had to extract data from the semi-structured dataset bucket, then we created a pipeline and used conditional routing to check weather the data passes the quality in terms of completeness, uniqueness and freshness. Based on it, data could be separated into quality passed or quality failed.
+
+**Tools:** The tools that we use in this case are S3 firstly to store the semi-structured data and again store them back into the bucekts after testing its quality. We used Visual ETL feature from AWS Glue to create the pipeline and do conditional routing.
+
+**Deliverables**: We were able to separate our data into two buckets, the first one had data set which passed the quality and the second bucket had dataset which failed the quality.
 
    
 
