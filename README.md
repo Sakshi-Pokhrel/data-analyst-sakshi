@@ -76,6 +76,8 @@ I worked as a data team for UCW account and was able to achieve vaious milestone
 
 **Deliverables**: We were able to separate our data into two buckets, the first one had data set which passed the quality and the second bucket had dataset which failed the quality.
 
+![Data Pipeline](https://github.com/Sakshi-Pokhrel/data-analyst-sakshi/blob/main/CA8-1.png?raw=true)
+
    
 
 
